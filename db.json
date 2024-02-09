@@ -1,0 +1,21 @@
+{
+    "recipes":[
+        {
+            "id": "1",
+            "name": "",
+            "indregients": "",
+            "source": "",
+            "pageNumber": "",
+            "interest": "yes",
+            "tags": [
+                "Dinner",
+                "Soup",
+                "Dairy",
+                "Eaten",
+                "Healthy",
+                "Meal Prep",
+                "Passover friendly"
+            ]
+        }
+    ]
+}
